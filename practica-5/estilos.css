@@ -1,0 +1,32 @@
+body {
+font-family: Arial
+background-color: #eeeeee;
+text-align: center;
+margin: 30px;
+}
+h1 {
+color: white;
+background-color: #d7a7f5;
+padding: 20px;
+}
+h2 {
+color: #671756;
+margin-top: 30px;
+}
+p {
+font-size: 17px;
+color: #333;,
+}
+h2 {
+color: #67173f; margin-top: 30px;
+}
+p {
+font-size: 17px; color: #333333;
+}
+input {
+padding: 10px; margin: 5px;
+}
+button {
+background-color: #b0d5eb; color: white;
+padding: 10px 20px;
+}
